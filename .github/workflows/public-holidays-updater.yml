@@ -54,7 +54,7 @@ jobs:
           fixed_holidays = [
               {"month": 1, "day": 1, "summary": "New Year's Day"},
               {"month": 5, "day": 1, "summary": "Labour Day"},
-              {"month": 6, "day": 9, "summary": "Europe Day"},
+              {"month": 5, "day": 9, "summary": "Europe Day"},
               {"month": 6, "day": 23, "summary": "National Day"},
               {"month": 8, "day": 15, "summary": "Assumption Day"},
               {"month": 11, "day": 1, "summary": "All Saints Day"},
